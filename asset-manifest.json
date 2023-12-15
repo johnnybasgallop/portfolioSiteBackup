@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolioSite/static/css/main.a632def7.css",
+    "main.js": "/portfolioSite/static/js/main.4c8208b9.js",
+    "static/media/MigrateMateMain.png": "/portfolioSite/static/media/MigrateMateMain.6fa08632d5ff7ed9a0e6.png",
+    "static/media/UpickMain.png": "/portfolioSite/static/media/UpickMain.8c5bd9be4472d210c88d.png",
+    "static/media/MoonNewsMain.png": "/portfolioSite/static/media/MoonNewsMain.01c35ec0394c2620e07d.png",
+    "static/media/JohnBasgallopCV.pdf": "/portfolioSite/static/media/JohnBasgallopCV.5b9148da8491a9a43c5b.pdf",
+    "static/media/SpeedTyperCover.png": "/portfolioSite/static/media/SpeedTyperCover.cadecce9e106fbf49d46.png",
+    "static/media/TodoAppMain.png": "/portfolioSite/static/media/TodoAppMain.cbf7f024d190e47ca286.png",
+    "static/media/MigrateMateCover.png": "/portfolioSite/static/media/MigrateMateCover.fb2b8790e894360ac8bd.png",
+    "static/media/SpeedTyperMain.png": "/portfolioSite/static/media/SpeedTyperMain.6610051444e7f1b2ccf7.png",
+    "static/media/UpickCover.png": "/portfolioSite/static/media/UpickCover.d614557934e1049030f0.png",
+    "static/media/MoonNewsCover.png": "/portfolioSite/static/media/MoonNewsCover.aec9a396eeab27c85bd5.png",
+    "static/media/profile.jpg": "/portfolioSite/static/media/profile.0e0ebd56e26417a09d00.jpg",
+    "static/media/TodoAppCover.png": "/portfolioSite/static/media/TodoAppCover.6ca5ab0d9b29f924bda2.png",
+    "static/media/testimonial3.png": "/portfolioSite/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/portfolioSite/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/about.jpg": "/portfolioSite/static/media/about.55a75ce3d9d96f429291.jpg",
+    "static/media/testimonial1.png": "/portfolioSite/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/portfolioSite/index.html",
+    "main.a632def7.css.map": "/portfolioSite/static/css/main.a632def7.css.map",
+    "main.4c8208b9.js.map": "/portfolioSite/static/js/main.4c8208b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a632def7.css",
+    "static/js/main.4c8208b9.js"
+  ]
+}
